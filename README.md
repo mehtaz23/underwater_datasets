@@ -59,5 +59,6 @@
 
 #### E. Trash and marine debris
 - Deep-sea debris database: [Data](http://www.godac.jamstec.go.jp/catalog/dsdebris/e/index.html), [Paper](https://ieeexplore.ieee.org/abstract/document/8793975).
+- Tiny plastics posing threat to turtles: [Paper](https://www.jcu.edu.au/news/releases/2018/april/tiny-plastics-are-potentially-dangerous-for-turtles-too)
 
 
